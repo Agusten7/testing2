@@ -1,12 +1,30 @@
+* {
+   padding: 0px;
+   margin: 0px;
+}
+
+
+
 h1 {
    color: red;
+   background-color: #000;
+   width: 100vw;
+   heigth: 100vh;
 }
+
+
 
 .clase_lol {
    color: blue;
 }
 
 
+
 #id_xd {
- color: green;
+   color: green;
+}
+
+
+[papu="sipapu"]:hover {
+   color: yellow;
 }
